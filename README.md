@@ -1,6 +1,6 @@
 ## TEEST (Text in Excel Every Single Time)
 
-*Disclaimer: Do not use or modify neither the program or the source code to make software violating the law.*
+*Disclaimer: Do not use or modify neither the program or the source code to make software violating the law. - whatever*
 
 ### How do I use it?
 
@@ -38,9 +38,22 @@ There should be a lot of software using this trick, but it is widely known for r
 
 ### How can I disable it?
 
+- With TEEST
+
 1. Open TEEST again.
 2. Click `Save text` button and click `Cancel` in the following popup.
 3. Delete `message.txt` file in the opened explorer.
+
+- Without TEEST
+TODO
+
+### Shut up for this b***s*** and tell me how to do it myself!
+
+1. Head to `C:\Users\%username%\AppData\Roaming\Microsoft\Excel\XLSTART`
+2. Create a text file of any name you like.
+3. Write something.
+4. Done.
+5. When you want to delete it, delete it.
 
 ### LICENSE
 
