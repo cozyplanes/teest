@@ -12,7 +12,7 @@
 
 
 
-### What does it happen 
+### What happens?
 
 When an MS Excel file (`.xlsx`) has been opened, by using TEEST, two files gets opened.
 
