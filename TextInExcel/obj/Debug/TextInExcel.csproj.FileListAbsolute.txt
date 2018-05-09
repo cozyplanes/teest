@@ -1,0 +1,10 @@
+D:\VisualStudioProjects_F\TextInExcel\TextInExcel\bin\Debug\TextInExcel.exe.config
+D:\VisualStudioProjects_F\TextInExcel\TextInExcel\bin\Debug\TextInExcel.exe
+D:\VisualStudioProjects_F\TextInExcel\TextInExcel\bin\Debug\TextInExcel.pdb
+D:\VisualStudioProjects_F\TextInExcel\TextInExcel\obj\Debug\TextInExcel.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects_F\TextInExcel\TextInExcel\obj\Debug\TextInExcel.Form1.resources
+D:\VisualStudioProjects_F\TextInExcel\TextInExcel\obj\Debug\TextInExcel.Properties.Resources.resources
+D:\VisualStudioProjects_F\TextInExcel\TextInExcel\obj\Debug\TextInExcel.csproj.GenerateResource.Cache
+D:\VisualStudioProjects_F\TextInExcel\TextInExcel\obj\Debug\TextInExcel.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects_F\TextInExcel\TextInExcel\obj\Debug\TextInExcel.exe
+D:\VisualStudioProjects_F\TextInExcel\TextInExcel\obj\Debug\TextInExcel.pdb
